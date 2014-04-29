@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>First pull request ever</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="site">
+          <div class="header">
+            <div class="img-circular"></div>
+            <div class="contact">
+              <p>
+                <a href="https://github.com/genderup">github.com/genderup</a><br />
+                <a href="https://twitter.com/genderup">twitter.com/genderup</a><br />
+              </p>
+            </div>
+           <!--  <h1 class="title"><a href="/">Your New Jekyll Site</a></h1> -->
+           <!--  <a class="extra" href="/">home</a> -->
+
+           </div>
+
+          <h2>First pull request ever</h2>
+<p class="meta">01 Jan 2014</p>
+
+<div class="post">
+<hr>
+
+<p>layout: post
+title:  &quot;My First Pull Request Ever&quot;
+date:   2013-12-31 09:25:14</p>
+
+<h2>categories: open source</h2>
+
+<p>I&#39;ve been coding as a hobbyist for a little while but I&#39;ve decided to take it more seriously recently, by which I mean, making attempts to contribute to open source projects, as much as I can.  It&#39;ll likely mostly be in the area of documentation since I&#39;m not the greatest programmer, however, my first pull request happens to be some actual code for NodeBB, the open sourced node.js based forum by Design Create Play. The problem: NodeBB lets you choose between Mongo or Redis for the backend, however, if you choose Mongo, which doesn&#39;t support full-text search in production (at least it&#39;s not encouraged), then admins on NodeBB won&#39;t be able to create other admin users, since the only way to currently do that is to search for users by username from the /admin/groups folder. Therefore, my pull request adds a &#39;Make Admin&#39; button on each user&#39;s profile button /admin/users, which allows admins to create other admins. </p>
+
+<p><a href="https://github.com/designcreateplay/NodeBB/pull/693">First Pull Request Ever</a></p>
+
+</div>
+
+
+          <div class="footer">
+            <div class="contact">
+              <p>
+               <!--  Michaela<br /> -->
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+               <!--  <a href="https://github.com/dragfordrop">github.com/genderup</a><br />
+                <a href="https://twitter.com/genderup">twitter.com/genderup</a><br /> -->
+              </p>
+            </div>
+          </div>
+        </div>
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-30508588-6', 'genderup.com');
+  ga('send', 'pageview');
+
+</script>
+
+    </body>
+</html>
