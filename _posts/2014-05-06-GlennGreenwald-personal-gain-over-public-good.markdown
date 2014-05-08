@@ -5,7 +5,9 @@ date:   2014-05-06 13:18:08
 categories: NSA
 ---
 
-To date, I haven't agreed with any of the criticism Glenn Greenwald has faced from jouranlists and politicians accusing him of greedily cashing in on the trove of NSA documents that came into his hands via Edward Snowden.  However, after reading a <a href="https://twitter.com/ggreenwald/status/464083369513746432">tweet</a> that he published today, I believe he is now more vulnerable to this type of criticism.  Greenwald <a href="https://twitter.com/ggreenwald/status/464083369513746432">announced</a> that documents referred to in his forthcoming book, "No Place To Hide", will be made available to the public on the day of the book's publication, May 13, 2014. I suppose there's a number of ways to interpret this gesture.  
+To date, I haven't agreed with any of the criticism Glenn Greenwald has faced from jouranlists and politicians accusing him of greedily cashing in on the trove of NSA documents that came into his hands via Edward Snowden.  However, after reading a <a href="https://twitter.com/ggreenwald/status/464083369513746432">tweet</a> that he published today, I believe he is now more vulnerable to this type of criticism.  Greenwald <a href="https://twitter.com/ggreenwald/status/464083369513746432">announced</a> that documents referred to in his forthcoming book, "No Place To Hide", will be made available to the public on the day of the book's publication, May 13, 2014. 
+
+I suppose there's a number of ways to interpret this gesture.  
 
 A very cynical person might view Greenwald as using the timing of the release of the documents as an attempt to promote his book.  
 
