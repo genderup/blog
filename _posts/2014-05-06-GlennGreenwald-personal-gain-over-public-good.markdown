@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Glenn Greenwald: Persoanl Gain Over Private Good"
+title:  "Glenn Greenwald: Persoanl Gain Over Public Good"
 date:   2014-05-06 13:18:08
 categories: NSA
 ---
