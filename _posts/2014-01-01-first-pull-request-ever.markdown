@@ -16,3 +16,5 @@ I've been coding as a hobbyist for a little while but I've decided to take it mo
 
 
 <a href="https://github.com/designcreateplay/NodeBB/pull/693">First Pull Request Ever</a>
+
+<img src="/blahblah.png">
